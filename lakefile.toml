@@ -1,0 +1,7 @@
+name = "formalization_flatpak"
+version = "0.1.0"
+defaultTargets = ["formalization_flatpak"]
+
+[[lean_exe]]
+name = "formalization_flatpak"
+root = "Main"
